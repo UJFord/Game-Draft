@@ -68,7 +68,7 @@ function bounceV(){
 	}else if(y+dy > height-ballRadius){
 		// dy = -dy;
 		//if ball reached bottom
-		alert("GAME OVER");
+		alert("HAHA BUUUGO!");
 		document.location.reload();
 		clearInterval(interval);
 	}
