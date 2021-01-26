@@ -184,7 +184,7 @@ function detectCollision(){
 function checkGame(){
 	if(score == (brickColumnCount*brickRowCount)){
 		//if complete
-		alert("Galeeeeng!");
+		alert("asuuus chamba");
 		document.location.reload();
 		clearInterval(interval);
 	}
